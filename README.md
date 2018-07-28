@@ -1,2 +1,2 @@
 # googleapi-restaurants
-Map of visited restauranta
+Map of visited restaurants
